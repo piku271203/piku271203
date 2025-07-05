@@ -1,16 +1,42 @@
 ## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-<!--
-**piku271203/piku271203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast driven by a passion for building impactful solutions using **Full-Stack Web Development** and **Machine Learning**. I love turning ideas into user-friendly, intelligent applications that solve real-life problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Areas of Interest
+- 💻 End-to-end web development with the MERN stack  
+- 🤖 Applied Machine Learning and AI  
+- 🌐 Creating dynamic, responsive web interfaces  
+- 🚀 Learning and experimenting with modern technologies  
+- 🤝 Contributing to open-source projects and communities  
+
+---
+
+## 📚 What I’m Currently Exploring
+- 🔗 Integrating AI/ML models into real-world web applications  
+- 🧠 Deepening my expertise in React, Node.js, Express, and MongoDB  
+- 🧩 Designing smarter user experiences with tech-powered solutions  
+
+---
+
+## 🤝 Looking to Collaborate On
+- ⚙️ Full-stack projects involving AI/ML integration  
+- 🌍 Innovative and community-driven open-source initiatives  
+- 🧑‍💼 Web platforms that enhance productivity or learning  
+
+---
+
+## 📫 Get in Touch  
+**Email:** ac4603877@gmail.com
+---
+
+## 🙋‍♂️ About Me  
+**Pronouns:** He/Him  
+**Location:** India  
+
+---
+
+## ⚡ Something Interesting  
+To me, web development is where logic meets creativity. Bringing machine learning into the mix is like giving the web the power to think — and I love every part of that process.
